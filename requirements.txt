@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
 lxml
-ipywidgets>=8.1.0
+ipywidgets>=7.7.0
 voila
