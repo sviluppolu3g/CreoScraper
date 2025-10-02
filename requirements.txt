@@ -1,0 +1,5 @@
+gradio==4.44.0
+requests
+beautifulsoup4
+lxml
+urllib3<3
